@@ -32,6 +32,8 @@ This repository contains links regarding Python and JavaScript topics. Feel free
 
 ### Articles
 
+* [Python packaging pitfalls](https://blog.ionelmc.ro/2014/06/25/python-packaging-pitfalls/)
+
 ### Tutorials
 
 * Machine Learning
