@@ -1,6 +1,11 @@
 # Awesome tech links
 
-This repository contains links regarding Python and JavaScript topics. Feel free to suggest links to tutorials, blogs and link collections ...
+## Link lists
+
+* [Awesome Nodejs](https://github.com/sindresorhus/awesome-nodejs)
+* [Awesome audio visualization](https://github.com/willianjusten/awesome-audio-visualization)
+* [Awesome Vue](https://github.com/vuejs/awesome-vue)
+* [Awesome JSON datasets](https://github.com/jdorfman/awesome-json-datasets)
 
 ## JavaScript
 
@@ -15,6 +20,11 @@ This repository contains links regarding Python and JavaScript topics. Feel free
 * [deeplearn.js - a hardware-accelerated machine intelligence library for the web](https://deeplearnjs.org/)
 * [tone.js - framework for creating interactive music in the browser](https://tonejs.github.io/)
 * [cesium - open-source JavaScript library for world-class 3D globes and maps](https://cesiumjs.org/)
+* [Lumins - text highlighting](https://lumin.rocks/)
+* [ml5 - 'friendly machine learning for the web'](https://ml5js.org/)
+* [impactjs - JavaScript Game Engine](http://impactjs.com/)
+* [drawerjs - canvas editor](https://www.drawerjs.com/)
+
 
 ### Articles
 
@@ -29,9 +39,16 @@ This repository contains links regarding Python and JavaScript topics. Feel free
 * [Debugging JavaScript With A Real Debugger You Did Not Know You Already Have](https://www.smashingmagazine.com/2018/02/javascript-firefox-debugger/)
 * [Webpack: A Gentle Introduction to the Module Bundler](https://auth0.com/blog/webpack-a-gentle-introduction/)
 
+### Miscs
+
+* [String operations](https://gist.github.com/rauschma/c46fc10f671ed5bf14021bc14f101c8d)
+* [Algorithms](https://github.com/trekhleb/javascript-algorithms/)
+
 ## Python
 
 ### Packages
+
+* [MechanicalSoup - automating interaction with websites](https://github.com/MechanicalSoup/MechanicalSoup)
 
 ### Articles
 
@@ -49,7 +66,9 @@ This repository contains links regarding Python and JavaScript topics. Feel free
   * python-patterns.guide/
 
 * [Unit Testing in Python: Tips, Tricks, and Gotchas](https://howchoo.com/g/owy4mzvhn2n/unit-testing-in-python-tips-tricks-and-gotchas)
+
 ## MISC
 
 * [Coolest handpicked Gradient Hues ](https://webkul.github.io/coolhue/)
 * [RegEx cheat sheet](https://www.kdnuggets.com/2018/04/python-regular-expressions-cheat-sheet.html)
+* [Comprehensive Python Cheatsheet](https://gto76.github.io/python-cheatsheet/)
